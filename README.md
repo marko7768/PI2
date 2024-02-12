@@ -8,7 +8,7 @@ El dataset original utilizado para este análisis se encuentra en formato xlsx y
 
 ## Estructura del Repositorio
 - **/datasets**: Contiene el conjunto de datos en formato csv.
-- **eda.ipynb**: cuaderno de Jupyter utilizado para el análisis eploratorio de datos (EDA).
+- **eda.ipynb**: cuaderno de Jupyter utilizado para el análisis exploratorio de datos (EDA).
 
 ## Requisitos
 - Python 3.x
