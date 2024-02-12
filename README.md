@@ -7,8 +7,8 @@ Este repositorio contiene el proyecto de análisis de datos realizado sobre el m
 El dataset original utilizado para este análisis se encuentra en formato xlsx y abarca el periodo 2016-2021. Consta de dos hojas llamadas 'hechos' y 'víctimas'. Además, se proporcionan dos hojas adicionales de diccionarios de datos que sirven como guía para entender mejor la información compartida. Por comodidad y preferencia se decidioó pasar los datasets a formato csv.
 
 ## Estructura del Repositorio
-- **/datasets**: Contiene el conjunto de datos en formato csv.
-- **eda.ipynb**: cuaderno de Jupyter utilizado para el análisis exploratorio de datos (EDA).
+- [datasets](https://github.com/marko7768/PI2/tree/main/datasets): Contiene el conjunto de datos en formato csv.
+- [eda.ipynb](https://github.com/marko7768/PI2/blob/main/eda.ipynb): cuaderno de Jupyter utilizado para el análisis exploratorio de datos (EDA).
 
 ## Requisitos
 - Python 3.x
