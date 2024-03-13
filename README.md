@@ -7,6 +7,7 @@
 - [Requisitos](https://github.com/marko7768/PI2/blob/main/README.md#Requisitos)
 - [Conclusiones](https://github.com/marko7768/PI2/blob/main/README.md#Conclusiones)
 - [Sugerencias](https://github.com/marko7768/PI2/blob/main/README.md#Sugerencias)
+- [Contacto](https://github.com/marko7768/PI2/blob/main/README.md#Datos-de-contacto)
 
 ## Descripción
 Este repositorio contiene el proyecto de análisis de datos realizado sobre el material del Observatorio de Movilidad y Seguridad Vial (OMSV) de la Ciudad Autónoma de Buenos Aires. El objetivo principal es generar información que permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales en siniestros viales.
@@ -44,3 +45,8 @@ En base a estos datos, algunas sugerencias para reducir la incidencia de siniest
 - El tipo de calle donde mayormente suceden los incidentes es en avenidas, por ejemplo, en el mapa si se ve por comuna 1 se ve en la Avenida 9 de Julio los casos en mención.
 - Los hechos que históricamente terminan en fatalidad suelen ser en el horario de 7,6 y 5 am (principalmente) y en cuanto a los días de la semana no hay días con menos o mayor diferencia a nivel histórico que marque gran diferencia.
 - Los días que históricamente terminan en siniestro vial con homicidios son entre 13 y 15 de cada mes y; a fin de mes entre 26 y 29 de cada mes.
+
+## Datos de contacto
+- [Email](markosotola@gmail.com)
+- [Número de teléfono](Wa.me/543510274415)
+- [Linkedin](https://www.linkedin.com/in/marko-sotola-15640b212/)
