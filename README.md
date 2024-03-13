@@ -22,6 +22,14 @@ Gracias al análisis exhaustivo de los datos aportados por el gobierno de la ciu
 - Históricamente la mayor cantidad de víctimas son conductores en moto, peatones y conductores de auto.
 - La mayor cantidad de las víctimas en moto son de género masculino.
 - La mayor cantidad de hechos sucede en los cruces (es decir, en esquinas).
+
+## Sugerencias 🛠️
+
+En base a estos datos, algunas sugerencias para reducir la incidencia de siniestros viales con resultado de homicidio podrían ser:
+- Implementar programas de educación vial dirigidos a conductores de todos los vehículos, con especial énfasis en conductores de motocicletas.
+- Mejorar la infraestructura vial en áreas de alto riesgo, como intersecciones y cruces, mediante la instalación de semáforos, señalización adecuada y diseño de calles más seguras.
+- Reforzar la aplicación de la ley de tránsito, especialmente en lo que respecta a conductas imprudentes como el exceso de velocidad, el consumo de alcohol al conducir y el uso de dispositivos móviles mientras se conduce.
+- Promover el uso de equipos de seguridad, como cascos para motociclistas y cinturones de seguridad para conductores y pasajeros de vehículos.
 - El rango etario de las víctimas fatales es entre 16 y 30 años, el género más afectado es masculino y suelen ser conductores de motos.
 - En la comuna 1 es donde históricamente suceden mayormente los siniestros viales con fatalidades, los barrios son: Constitución- Montserrat- Puerto Madero - Retiro - San Nicolás - San Telmo, en este caso el tipo de víctima más afectado es el peatón y en segundo lugar motos.
 - El tipo de calle donde mayormente suceden los incidentes es en avenidas, por ejemplo, en el mapa si se ve por comuna 1 se ve en la Avenida 9 de Julio los casos en mención.
