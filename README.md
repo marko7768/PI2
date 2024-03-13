@@ -1,5 +1,13 @@
 # Proyecto de Análisis de Datos - Observatorio de Movilidad y Seguridad Vial (OMSV)
 
+## Índice
+- [Descripción](https://github.com/marko7768/PI2/blob/main/README.md#Descripción)
+- [Datos](https://github.com/marko7768/PI2/blob/main/README.md#Datos)
+- [Estructructura repositorio](https://github.com/marko7768/PI2/blob/main/README.md#Estructura-del-Repositorio)
+- [Requisitos](https://github.com/marko7768/PI2/blob/main/README.md#Requisitos)
+- [Conclusiones](https://github.com/marko7768/PI2/blob/main/README.md#Conclusiones)
+- [Sugerencias](https://github.com/marko7768/PI2/blob/main/README.md#Sugerencias)
+
 ## Descripción
 Este repositorio contiene el proyecto de análisis de datos realizado sobre el material del Observatorio de Movilidad y Seguridad Vial (OMSV) de la Ciudad Autónoma de Buenos Aires. El objetivo principal es generar información que permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales en siniestros viales.
 
@@ -8,14 +16,15 @@ El dataset original utilizado para este análisis se encuentra en formato xlsx y
 
 ## Estructura del Repositorio
 - [datasets](https://github.com/marko7768/PI2/tree/main/datasets): Contiene el conjunto de datos en formato csv.
-- [eda.ipynb](https://github.com/marko7768/PI2/blob/main/eda.ipynb): cuaderno de Jupyter utilizado para el análisis exploratorio de datos (EDA).
+- [EDA](https://github.com/marko7768/PI2/blob/main/EDA.ipynb): cuaderno de Jupyter utilizado para el análisis exploratorio de datos.
+- [ETL](https://github.com/marko7768/PI2/blob/main/ETL.ipynb): cuaderno de Jupyter utilizado para la extracción y transformación de los datos.
 
 ## Requisitos
 - Python 3.x
 - Jupyter Notebooks
 - Bibliotecas de Python: Pandas, seaborn, scipy y numpy.
 
-## Conclusiones 📝
+## Conclusiones
 Gracias al análisis exhaustivo de los datos aportados por el gobierno de la ciudad, notamos que:
 - El género con mayor cantidad de víctimas es el masculino.
 - Los principales acusados del hecho son los autos, transportes públicos y vehículos de carga.
@@ -23,7 +32,7 @@ Gracias al análisis exhaustivo de los datos aportados por el gobierno de la ciu
 - La mayor cantidad de las víctimas en moto son de género masculino.
 - La mayor cantidad de hechos sucede en los cruces (es decir, en esquinas).
 
-## Sugerencias 🛠️
+## Sugerencias
 
 En base a estos datos, algunas sugerencias para reducir la incidencia de siniestros viales con resultado de homicidio podrían ser:
 - Implementar programas de educación vial dirigidos a conductores de todos los vehículos, con especial énfasis en conductores de motocicletas.
