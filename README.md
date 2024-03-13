@@ -47,6 +47,6 @@ En base a estos datos, algunas sugerencias para reducir la incidencia de siniest
 - Los días que históricamente terminan en siniestro vial con homicidios son entre 13 y 15 de cada mes y; a fin de mes entre 26 y 29 de cada mes.
 
 ## Datos de contacto
-- [Email](markosotola@gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=markosotola@gmail.com)
 - [Número de teléfono](https://Wa.me/543512074415)
 - [Linkedin](https://www.linkedin.com/in/marko-sotola-15640b212/)
