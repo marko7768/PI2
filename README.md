@@ -4,7 +4,7 @@
 - [Descripción](https://github.com/marko7768/PI2/blob/main/README.md#Descripción)
 - [Datos](https://github.com/marko7768/PI2/blob/main/README.md#Datos)
 - [Estructructura repositorio](https://github.com/marko7768/PI2/blob/main/README.md#Estructura-del-Repositorio)
-- [Requisitos](https://github.com/marko7768/PI2/blob/main/README.md#Requisitos)
+- [Stack Tecnológico](https://github.com/marko7768/PI2/blob/main/README.md#Stack-tecnológico)
 - [Conclusiones](https://github.com/marko7768/PI2/blob/main/README.md#Conclusiones)
 - [Sugerencias](https://github.com/marko7768/PI2/blob/main/README.md#Sugerencias)
 - [Contacto](https://github.com/marko7768/PI2/blob/main/README.md#Datos-de-contacto)
@@ -20,10 +20,11 @@ El dataset original utilizado para este análisis se encuentra en formato xlsx y
 - [EDA](https://github.com/marko7768/PI2/blob/main/EDA.ipynb): cuaderno de Jupyter utilizado para el análisis exploratorio de datos.
 - [ETL](https://github.com/marko7768/PI2/blob/main/ETL.ipynb): cuaderno de Jupyter utilizado para la extracción y transformación de los datos.
 
-## Requisitos
-- Python 3.x
-- Jupyter Notebooks
+## Stack tecnológico.
+- Python 3.x.
+- Jupyter Notebooks.
 - Bibliotecas de Python: Pandas, seaborn, scipy y numpy.
+- Power Bi.
 
 ## Conclusiones
 Gracias al análisis exhaustivo de los datos aportados por el gobierno de la ciudad, notamos que:
