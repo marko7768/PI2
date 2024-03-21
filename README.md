@@ -49,5 +49,4 @@ En base a estos datos, algunas sugerencias para reducir la incidencia de siniest
 
 ## Datos de contacto
 - [Email](https://mail.google.com/mail/?view=cm&fs=1&to=markosotola@gmail.com)
-- [Número de teléfono](https://Wa.me/543512074415)
 - [Linkedin](https://www.linkedin.com/in/marko-sotola-15640b212/)
